@@ -2,11 +2,13 @@ package com.example.cse224project
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.View
 import android.widget.RadioGroup
 import android.widget.RadioButton
 import android.widget.CheckBox
 import android.widget.Button
+import android.view.View
+import android.widget.*
+
 
 class MainActivity2 : AppCompatActivity() {
     lateinit var rg_gender : RadioGroup
